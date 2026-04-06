@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Owais%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-arshad-qa)
-[![Email](https://img.shields.io/badge/Email-oa2230573%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa2230573@gmail.com)
+[![Email](https://img.shields.io/badge/Email-work19316@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work19316@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
